@@ -1,0 +1,91 @@
+#if = agar
+#else = aks holda
+#son = 30)
+ #yosh = int(input('yoshingiz nechida?'))
+#if yosh<=4:
+   # print('sizga kirish bepul.')
+#elif yosh<=12:
+    #print('sizga kirish 5000 ming som')
+#else:
+    #print ('sizga kirish 10000 ming som ')
+
+kun= input("bugun nima kun?>>>")
+harorat= float(input("havo harorati qanday?"))
+if kun.lower()== 'shanba' and harorat>=30:
+    print("bugun chomilamiz")
+elif kun.lower()=='shanba'and harorat<30:
+    print("bugun dam olamiz")
+    # print funksiyasi kiritilgan suzni terminalga chiqaradi
+
+
+
+print( "Hello World")
+print("Hello world")
+a=4698
+b=9865
+c=5438
+d=a*b*c
+print(d)
+# ** sonning kvadratini hisoblash uchun islatiladi
+a=55
+b=78
+c=a+b**3
+print (c)
+# .upper() hamma sozlarni katta qilishga yordam beradi
+ism='Timurbek'
+familiya='Ataullayev'
+print(f"salom, mening ismim {ism}   {familiya}")
+print(ism.upper())
+# \t orada katta joy ochishni taminlab beradi
+print('hello\tWorld')
+# ctrl a hammasini belgilaydi
+#ctrl c copy
+# ctrl v put or paste
+# \n sozni narigi qatorga otkazishga yordam beradi
+# .lower() bu harflarni kichkindia qilib yozishga yordam beradi
+# .tittle() gapdagi hamma sozni bosh harfini katta qilib beradi
+# .capitalize() gapdagi birinchi sozni harfini katta qiib beradi 
+# imput buyrug'i bizdan soragan holda javobni chiqaradi
+ism = input("ismingiz nima?")
+yosh = input("yoshingiz nechida?")
+print(yosh,"yosh ekansiz")
+a= 5.5
+b=60
+c=a*b
+#print (c)
+# type matni tipini korsatadi 
+temp = 36.6
+#print(type (temp))
+aholi_soni=7_897_224_423
+#print ("aholi soni :",aholi_soni)
+# // bu belgi bizga sonni songa bolganda uni butun son korinishida tasvirlab beradi
+d=3000/7
+#print (d)
+d=3000//7
+#print(d)
+# PI=3,14159
+radius=20
+PI=3.14159
+diametr=2*radius 
+#print("aylana uzinligi:",PI*diametr)
+ism="Timurbek"
+yosh = 13
+
+xabar=ism + str(yosh) + 'yoshda'
+print(xabar)
+#if = agar
+#else = aks holda
+#son = 30)
+ #yosh = int(input('yoshingiz nechida?'))
+#if yosh<=4:
+   # print('sizga kirish bepul.')
+#elif yosh<=12:
+    #print('sizga kirish 5000 ming som')
+#else:
+    #print ('sizga kirish 10000 ming som ')
+
+#kun= input("bugun nima kun?>>>")
+#harorat= float(input("havo harorati qanday?"))
+#   print("bugun chomilamiz")
+#elif kun.lower()=='shanba'and harorat<30:
+#    print("bugun dam olamiz")
